@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Landmarks</title>
+</head>
+<body>
+
+<h2>Imperial Landmarks</h2>
+	
+<p><img src="../images/peterI.jpg" alt="The Bronze Horseman" width="300" height="400"> 
+ <figcaption>The Bronze Horseman</figcaption></p>
+
+ <br>
+
+ p><img src="../images/ppFortress.jpg" alt="Peter and Paul Fortress" width="300" height="400"> 
+ <figcaption>Peter and Paul Fortress</figcaption></p>
+
+
+ <br>
+ 
+</body>
+</html>
