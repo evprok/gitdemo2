@@ -1,0 +1,13 @@
+body {
+	margin-left: 100px; /* adds 100 pixels of space on the left */
+	background-color: rgb(255, 99, 71);
+}
+
+h1   {
+	color: tomato;
+}
+
+table, th, td {
+  /*border:1px solid black;*/ 
+  style="width:50%"
+}
